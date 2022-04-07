@@ -11,6 +11,10 @@ a {
     display: block;
 }
 
+li {
+    list-style: none;
+}
+
 ._container {
     margin: 0 auto;
     max-width: 1100px;
@@ -105,10 +109,83 @@ a {
 
 ._fix__scren{
     padding-left: 200px;
+    text-align: justify;
+}
+
+._fix__scren_list {
+    padding-left: 11%;
+    position: relative;
 }
 
 @media (max-width: 618px) {  
     ._fix__scren {
         padding: 0;
     }
+    ._fix__scren_list {
+        padding-left: 0px;
+    }
+}
+
+.experience li{
+    list-style: georgian inside url('/img/basic-tick.png');
+}
+
+.skils {
+    line-height: 1.5em;
+}
+
+.skill__wrapper {
+    width: 200px;
+    background-color: black;
+}
+.html__skill__progress {
+    width: 80%;
+    height: 1px;
+    background-color: aqua;
+}
+.css__skill__progress {
+    width: 75%;
+    height: 1px;
+    background-color: aqua;
+}
+.js__skill__progress {
+    width: 70%;
+    height: 1px;
+    background-color: aqua;
+}
+.git__skill__progress {
+    width: 95%;
+    height: 1px;
+    background-color: aqua;
+}
+.react__skill__progress {
+    width: 85%;
+    height: 1px;
+    background-color: aqua;
+}
+.sql__skill__progress {
+    width: 40%;
+    height: 1px;
+    background-color: aqua;
+}
+
+.languages {
+    padding-left: 145px;
+}
+
+.footer {
+    width: 100%;
+    height: 70px;
+    background: black;
+    margin-top: 10px;
+}
+
+.footer span {
+    color: white;
+    display: block;
+    text-align: center;
+    padding-top: 20px;
+    letter-spacing: 1em;
+    font-size: 24px;
+    font-weight: 900;
 }
