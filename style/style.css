@@ -79,5 +79,36 @@ a {
 
 .header__birthday {
     display: block;
-    
+}
+
+.icons {
+    display: flex;
+    padding-left: 20px;
+}
+
+.icons a{
+    padding-left: 20px;
+}
+
+@media (max-width: 618px) {  
+    .icons {
+        padding: 0;
+    }
+}
+
+._main__info {
+    display: block;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+._fix__scren{
+    padding-left: 200px;
+}
+
+@media (max-width: 618px) {  
+    ._fix__scren {
+        padding: 0;
+    }
 }
