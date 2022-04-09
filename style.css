@@ -1,0 +1,10 @@
+body {
+  background-color: #ffffff;
+  font-family: Arial Narrow, sans-serif;
+}
+li {
+  color: orange;
+}
+li > p {
+  color: black;
+}
