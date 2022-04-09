@@ -1,0 +1,45 @@
+body{
+  display: flex;
+}
+.left{
+  width: 40%;
+  padding: 40px;
+  background-color: #3D6ACC;
+  color:white;
+}
+.right{
+  padding: 40px;
+  color:#002880;
+}
+img{
+  width:100%;
+}
+.left_col{
+  background-color: #002880;
+  text-align: center;
+  font-size: 30px;
+}
+a{
+  text-decoration:underline;
+  color:white;
+}
+h2{
+  font-size: 40px;
+}
+p{
+  text-align: justify;
+  font-size: 17px;
+}
+li{
+  font-size: 15px;
+}
+h1{
+  text-align: center;
+}
+hr{
+  border-width: 2px;
+  border-color: #002880;
+}
+.right_col{
+  text-decoration: underline;
+}
