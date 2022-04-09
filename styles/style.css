@@ -1,0 +1,14 @@
+#list {
+    background: rgba(1, 177, 10, 0.651);
+     color: black;
+  }
+
+  .list {
+background: green;
+color: hwb(0 1% 99%);
+  }
+
+img {
+  width: 200px;
+  height: 300;
+}
