@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color: aliceblue;">
+<h1> Taras Hrytsun </h1> 
+<img src="http://placekitten.com/200/300">
+<p> Junior frontend developer </p>
+<ul> 
+<h4> Contact information </h4>
+ <li> <a href="https://github.com/TarasEdv">Github</a> </li> 
+<li>   
+    <a href="https://www.linkedin.com/in/finelife/">Linkedin</a> </li> 
+<li> 
+    <a href="lvivtg@gmail.com">Email</a> </li>
+<li>   
+    Mobile number +380931170776 </li>
+ <li>  
+     <a href="@Edv007">Telegram</a>  </li>
+</ul>
+<p>I am a Project Manager with more than 4 years of experience in management and more than 5 years of professional background in sales, marketing, and business development.
+
+</p>
+<ul> <h4> List of Tech knowledge </h4>
+</ul>
+<p> 
+HTML/CSS/JavaScript </p>
+<ul> <h4> Knowledge section  </h4> </ul>
+    <li>  Leading SAFe (5.1), 73417667-4723, Udemy, 2022. </li>
+    <li>  Online Ukrainian School of Project Management by Denys Prylutskyi, 2021. </li>
+    <li>  Feedback Training Program by Veronika Hubernatorova, 2021. </li>
+    <li>  Eleks Project Manager Tech Program, 2021.
+    </li>
+    <p style="color: rgb(204, 0, 255);"> MS in Law
+        Lviv University of Business and Law, Faculty of Law
+    </p>        
+</body>
+</html>
