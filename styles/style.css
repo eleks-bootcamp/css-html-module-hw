@@ -1,0 +1,16 @@
+body {
+  background: darkcyan;
+  color: rgb(0, 44, 6);
+}
+p {
+  background: white;
+  color: black;
+}
+.list {
+  border: 4px solid orange;
+}
+
+img {
+  width: 100px;
+  border-radius: 50%;
+}
