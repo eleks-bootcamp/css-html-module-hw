@@ -1,0 +1,7 @@
+.list {
+  border: 4px solid orange;
+  background: red
+}
+.profile-photo {
+  border-radius: 50%;
+}
