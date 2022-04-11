@@ -1,0 +1,17 @@
+
+.main_color {
+    color: #555;
+}
+.title {
+    color: darkblue;
+}
+.contacts {
+    background: lightcyan;
+}
+.technologies {
+    background: lightsalmon;
+}
+.my_photo {
+    width: 200px;
+    border-radius: 20%;
+}
