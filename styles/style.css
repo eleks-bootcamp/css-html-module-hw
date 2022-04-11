@@ -1,5 +1,5 @@
 body{
-  color: #555;
+color: #555;
 }
 h1{
   color:darkblue;
@@ -11,7 +11,10 @@ img{
 }
 
 .contacts{
-  color:lightcyan;
+  color:lightsalmon;
+}
+a{
+  color:lightsalmon;
 }
 .tools{
   color:lightsalmon;
