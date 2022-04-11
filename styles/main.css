@@ -1,0 +1,19 @@
+img {
+  border-radius: 20px;
+  width: 200px;
+}
+a {
+  text-decoration: none;
+}
+body {
+  color: #555;
+}
+h1 {
+  color: darkblue;
+}
+.contacts {
+  background: lightcyan;
+}
+.technology {
+  background: lightsalmon;
+}
