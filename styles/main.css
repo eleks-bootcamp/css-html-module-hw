@@ -1,0 +1,20 @@
+body {
+  color: #555;
+}
+.image-avatar {
+  width:200px;
+  height: auto;
+  border-radius: 20%;
+}
+.color-darkblue {
+  background: darkblue;
+}
+.color-lightcyan {
+  background: lightcyan;
+}
+.color-lightsalmon {
+  background: lightsalmon;
+}
+.font-weight-600 {
+  font-weight:600;
+}
