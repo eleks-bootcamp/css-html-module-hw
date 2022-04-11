@@ -1,0 +1,42 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  color: #555;
+}
+.h1{
+  color: darkblue;
+}
+
+.img {
+  width: 200px;
+  border-radius: 20%;
+}
+
+.university {
+  font-weight: bold;
+}
+
+.terms {
+  font-size: 16px;
+  color: #595858;
+}
+
+.heading {
+  font-weight: bold;
+}
+
+.socials {
+  list-style-type: square;
+  text-underline: none;
+
+}
+.list-socials{
+  background-color: lightcyan;
+}
+.link {
+  text-decoration: none;
+  color: purple;
+}
+.list-technologies{
+  background-color: lightsalmon;
+}
