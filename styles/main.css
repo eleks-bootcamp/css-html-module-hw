@@ -1,0 +1,20 @@
+body {
+  color: #555;
+}
+
+h1 {
+  color: darkblue;
+}
+
+.CV-image {
+  width: 200px;
+  border-radius: 20%;
+}
+
+.details-list {
+  background: lightcyan;
+}
+
+.hard-skills-list {
+  background: lightsalmon;
+}
