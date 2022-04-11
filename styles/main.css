@@ -1,0 +1,16 @@
+.main {
+  color: #555;
+}
+.header {
+  color: darkblue;
+}
+.photo {
+  width: 200px;
+  border-radius: 20%;
+}
+.contacts {
+  background: lightcyan;
+}
+.technologies {
+  background: lightsalmon;
+}
