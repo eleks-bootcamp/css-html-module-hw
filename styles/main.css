@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #555;
+}
+
+a {
+  color: lightcyan; 
+  text-decoration: none;
+}
+
+.intro-name {
+  color: darkblue;
+}
+
+img {
+  width: 200px;
+  border-radius: 20%;
+}
+
+.contacts-list {
+  color: lightcyan;
+}
+
+.tech-skills-list,
+.soft-skills-list {
+  color: lightsalmon;
+}
