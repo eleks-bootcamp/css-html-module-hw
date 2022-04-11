@@ -1,0 +1,20 @@
+body.color-555  {
+  color: #555;
+}
+
+h1.color-darkblue {
+  color: darkblue;
+}
+
+img.img-charackteristics {
+  width: 200px;
+  border-radius: 20%;
+}
+
+ul.contact-list {
+  background-color: lightcyan;
+}
+
+ul.technology-list {
+  background-color: lightsalmon;
+}
