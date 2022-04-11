@@ -1,0 +1,19 @@
+body {
+  background: rgb(233, 122, 78);
+  color: #555;
+}
+h1 {
+  color: darkblue;
+}
+img {
+  width: 200px;
+  border-radius: 20%;
+}
+.list-ul {
+  border: 0.5px solid darkblue;
+  background: rgb(243, 200, 183);
+}
+.list-ul-two {
+  border: 0.5px solid darkblue;
+  background: lightsalmon;
+}
