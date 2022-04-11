@@ -1,0 +1,24 @@
+h1{
+  color: darkblue;
+}
+
+body{
+  background-color: whitesmoke;
+}
+
+img {
+    width: 200px;
+    border-radius: 20%;
+}
+body{
+    color: #555;
+}
+.link{
+  background-color: lightcyan;
+  border: 4px solid skyblue;
+}
+
+.link2{
+  background-color: lightsalmon;
+  border: 4px solid rgb(222, 102, 54);
+}
