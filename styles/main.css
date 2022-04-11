@@ -1,0 +1,25 @@
+* {
+  color: #555;
+}
+
+.title {
+  color: darkblue;
+}
+
+.contacts ul li {
+  color: cadetblue;
+}
+
+.contacts ul li a {
+  color: cadetblue;
+  text-decoration: none;
+}
+
+.photo img {
+  width: 290px;
+  border-radius: 5%;
+}
+
+.stack ul li {
+  color: lightsalmon;
+}
