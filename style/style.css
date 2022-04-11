@@ -75,6 +75,7 @@ li {
 
 .header__img img{
     width: 100%;
+    border-radius: 20%;
 }
 
 .header__info {
@@ -107,13 +108,17 @@ li {
     padding: 20px;
 }
 
+.exp__fix {
+    padding-left: 95px;
+}
+
 ._fix__scren{
     padding-left: 200px;
     text-align: justify;
 }
 
 ._fix__scren_list {
-    padding-left: 11%;
+    margin-left: 14%;
     position: relative;
 }
 
@@ -126,8 +131,22 @@ li {
     }
 }
 
-.experience li{
-    list-style: georgian inside url('/img/basic-tick.png');
+.exp__data {
+    padding-left: 30px;
+}
+
+.exp__info {
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.exp__photo {
+    width: 50px;
+}
+
+.exp__photo img {
+    width: 50px;
 }
 
 .skils {
@@ -170,7 +189,7 @@ li {
 }
 
 .languages {
-    padding-left: 145px;
+    padding-left: 100px;
 }
 
 .footer {
