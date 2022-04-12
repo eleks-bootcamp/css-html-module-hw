@@ -1,0 +1,30 @@
+
+body{
+/* background: darkblue; */
+color: #555;
+}
+
+h1{
+  background: darkblue;  
+}
+
+.list_contact {
+  background: lightcyan; 
+}
+
+ .list {
+    background: lightsalmon;
+   
+}
+
+/* .list {
+    border: 4px solid orange;
+    background: red;
+     color: white;
+} */
+
+img {
+    width: 200 px;
+    /* height: 100 px; */
+    border-radius: 20%;
+} */
