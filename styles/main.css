@@ -1,0 +1,21 @@
+body {
+  color: #555;
+  }
+
+h1 {
+  text-align: center;
+  color: darkblue;
+  }
+
+.pict {
+  width: 200px;
+  border-radius: 20%;
+}
+
+.list1 {
+  background-color: lightcyan;
+}
+
+.list2 {
+  background-color: lightsalmon;
+}
