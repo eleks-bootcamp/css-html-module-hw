@@ -1,0 +1,17 @@
+body{
+    background:rgb(108, 164, 89);
+    color: whitesmoke;
+  }
+
+  p{
+    background: darkgreen;
+    color:azure
+  }
+
+  #first{
+    background: goldenrod;
+    color: aliceblue;
+  }
+  .list{
+    border: 4px solid orange;
+  }
