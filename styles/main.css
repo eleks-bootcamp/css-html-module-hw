@@ -1,0 +1,32 @@
+body {
+  color: #555;
+}
+
+.Cl_darkblue {
+  color: darkblue;
+}
+
+.list_cintacts {
+  background: lightcyan;
+}
+
+.list_technology {
+  background: lightsalmon;
+}
+
+/* #my_s_p {
+  background: #11ce66;
+  color: rgb(200, 192, 223);
+}
+
+.list {
+  background: #eeeed7;
+  color: rgb(70, 5, 5);
+  border: 4px solid orange;
+} */
+
+img {
+  width: 200px;
+  /* height: 200px; */
+  border-radius: 20%;
+}
