@@ -1,0 +1,20 @@
+body{
+  color: #555;
+}
+.main_title{
+  color: darkblue;
+}
+.profile_photo{
+  width: 200px;
+  border-radius: 20%;
+}
+.contact_list{
+  background-color: lightcyan;
+}
+.technical_list{
+  background-color: lightsalmon;
+}
+
+
+
+
