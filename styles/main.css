@@ -1,17 +1,16 @@
 body{
-    background:rgb(108, 164, 89);
-    color: whitesmoke;
+    color:#555;
   }
-
-  p{
-    background: darkgreen;
-    color:azure
+  h1{
+    color: darkblue;
   }
-
-  #first{
-    background: goldenrod;
-    color: aliceblue;
+  .image{
+    width: 200px;
+    border-radius: 20%;
   }
-  .list{
-    border: 4px solid orange;
-  }
+.contacts{
+  background-color: lightcyan;
+}
+.techno{
+  background-color: lightsalmon;
+}

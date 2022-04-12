@@ -1,38 +1,45 @@
 <!DOCTYPE html>
+<html>
 <head>
-    <h1> 
-       Сілін Антон В'ячеславович 
+  <meta charset="UTF-8"> <!--на теги стилі не додаємо --> <!--На айді не додаємо css властивості -->
+  <title>Silin Anton's CV</title>
+    <h1>
+       Silin Anton Vyacheslavovuch
     </h1>
         <p1>
-            Бажана посада:"Trainee front-end developer"
+            Desired position :"Trainee front-end developer"
         </p1>
+
+        <link rel="stylesheet" href="./styles/reset.css">
+        <link rel="stylesheet" href="./styles/main.css">
 </head>
 
 <body>
-    <ul>
+    <ul class="contacts" > <!-- style="background: black;" - ось так робити не потрібно,у цюж лінію не додавати -->
         <li>Посилання на <a href="https://github.com/Sonersy">Github</a></li>
-        <li> Посилання на <a href="https://www.linkedin.com/in/anton-silin-4329b9235/">Linkedin</a></li>
+        <li> link for <a href="https://www.linkedin.com/in/anton-silin-4329b9235/">Linkedin</a></li>
         <li>Email: <em>av.silins@gmail.com</em></li>
-        <li>Телефон: <strong>+380</strong>634758737</li>
+        <li>Phone: <strong>+380</strong>634758737</li>
         <li>Telegram:<strong>+380</strong>634758737<strong> / <a target="_blank" href="https://t.me/Nntonn">Профіль</a></strong></li>
     </ul>
-    <img src="image/notphoto.jpg" width="250px" alt="Моє фото">
-     <p2><br>
-         Коротка інформація про себе:<br>
-         Мені 18 років,навчаюсь на 2 курсі університету НАУ,факультет-АЕТ,Київ. На даний момент проживаю у місті Рівне.
-    </p2>
-    <h3>Вивчатиму на курсі: </h3>
-     <ul>
+    <img class="image" src="image/photo.jpg" width="250px" alt="Моє фото">
+     <p><br>
+         Short information:<br>
+         I am 18 years old, studying at 2nd year as a student at NAU University, Faculty of AET, Kyiv. Currently live in Rivne.
+    </p>
+    <h3>Will study on course: </h3>
+     <ul class="techno">
          <li>CSS</li>
          <li>HTML </li>
-         <li> JS</li>
+         <li>JavaScript</li>
          <li>GIT</li>
      </ul>
-        <ol>
-           <li>На даний момент не маю досвіту роботи в IT</li> 
-           <li>На даний момент прохожу курс по <em>front-end</em> </li>
+        <ol class="list">
+           <li>Currently have no experience in IT</li>
+           <li>Studying at the <em>front-end</em> course </li>
         </ol>
         <p>
-           у 2020р. Закінчив школу #15 м.Рівне. На даний момент навчаюсь в Національному Авіаційному Університеті, 2 курс, факульету Аеронавігаці Електроніки та Телекомунікацій
+          in 2020 i have graduated from school 15 in Rivne. I am currently studying at the National Aviation University, 2nd year, Faculty of Aeronautical Electronics and Telecommunications
         </p>
 </body>
+</html>
