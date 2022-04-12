@@ -1,0 +1,23 @@
+.body {
+  color: #555;
+}
+
+.header {
+  color: darkblue;
+}
+
+.cv-image {
+  width: 210px;
+  height: 250px;
+  border-radius: 20%;
+}
+
+.contacts-list {
+  background-color: lightcyan;
+}
+
+.skills-list {
+  background-color: lightsalmon;
+
+}
+
