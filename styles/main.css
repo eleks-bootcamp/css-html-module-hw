@@ -1,0 +1,17 @@
+ body {
+  color: #555;
+}
+#list {
+    background: darkblue;
+  }
+.list {
+background: lightcyan;
+  }
+.techcolor {
+background: lightsalmon;
+}
+img {
+  width: 200px;
+  height: 300px;
+  border-radius: 20%;
+}
