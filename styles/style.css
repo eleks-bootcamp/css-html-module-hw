@@ -1,20 +1,20 @@
-body {
-    background: yellrgba(83, 83, 83, 0.76);
-    color: white;
-}
-
 .my-tag-p {
-    background: rgba(0, 0, 0, 0.514);
-    color: white;
+    color: darkblue;
 }
 
 .list {
-    border: 4px solid whitesmoke;
-    background: rgba(0, 0, 0, 0.514);
+    border: 4px solid black;
+    background: lightcyan;
 }
 
-img {
+.mypic {
+    object-fit: cover;
     width: 200px;
     height: 200px;
-    border-radius: 50%;
+    border-radius: 20%;
+}
+
+.techno {
+    border: 4px solid black;
+    background: lightsalmon;
 }
