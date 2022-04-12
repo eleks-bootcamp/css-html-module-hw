@@ -1,0 +1,17 @@
+
+body
+{color: rgb(5, 5, 5);}
+
+
+img
+{
+  width: 200 px;
+  height: 200 px;
+  border-radius: 20%;
+}
+
+.contacts
+{background-color: lightcyan;}
+
+.technology
+{background-color: lightsalmon;}
