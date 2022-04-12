@@ -1,0 +1,16 @@
+body{
+  color: #555;
+}
+h1 {
+  color: darkblue;
+}
+.contact-info{
+  background-color: lightcyan;
+}
+.my-skills{
+  background-color: lightsalmon;
+}
+li + li {
+  margin-top: 5px;
+}
+
