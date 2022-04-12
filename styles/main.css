@@ -1,0 +1,21 @@
+body {
+  color: #555;
+}
+
+h1 {
+  color: darkblue;
+}
+
+.list {
+  background: lightcyan ;
+}
+
+.list-2 {
+  background: lightsalmon;
+}
+
+img {
+width: 200px;
+height: 200px;
+border-radius: 20%;
+}
