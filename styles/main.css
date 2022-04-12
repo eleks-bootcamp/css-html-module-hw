@@ -1,0 +1,21 @@
+.body_txt{
+    color: #555;
+}
+
+.name{
+    color: darkblue;
+}
+
+.li_img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+}
+
+.contact{
+    background-color: lightcyan;
+}
+
+.tehn{
+    background-color: lightsalmon;
+}
