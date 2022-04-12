@@ -4,109 +4,112 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>CV Oleksandr Riabukha</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./styles/reset.css">
+    <link rel="stylesheet" href="styles/main.css">
   </head>
-  <body>
-    <aside>
-      <header>
-        <img
-          src="https://media-exp1.licdn.com/dms/image/C4D03AQGnonhK_ZTVsg/profile-displayphoto-shrink_800_800/0/1649342410506?e=1654732800&v=beta&t=ogHdYf4LLCqlkJLKmHp-onUt6oXiM2EEcyfgb5P4Afc"
-          width="200"
-          height="200"
-          alt="avatar"
-        >
+  <body class="cv">
+    <div class="cv__wrapper">
+      <aside class="cv__aside">
+        <header class="cv__header">
+          <img
+            class="avatar"
+            src="https://media-exp1.licdn.com/dms/image/C4D03AQGnonhK_ZTVsg/profile-displayphoto-shrink_800_800/0/1649342410506?e=1654732800&v=beta&t=ogHdYf4LLCqlkJLKmHp-onUt6oXiM2EEcyfgb5P4Afc"
+            width="200"
+            height="200"
+            alt="avatar"
+          >
 
-        <h1>Oleksandr Riabukha</h1>
-        <hr>
-        <p>Frontend developer</p>
-      </header>
-      <section>
-        <h2>Contacts</h2>
-        <ul>
-          <li>
-            <span>Address</span>: <b>Kyiv, Ukraine</b>
-          </li>
-          <li>
-            <span>Phone</span>: <a href="tel:+380997877623">+38 (099) 787-76-23</a>
-          </li>
-          <li>
-            <span>Email</span>: <a href="mailto:oleksandrrbh@gmail.com">oleksandrrbh@gmail.com</a>
-          </li>
-          <li>
-            <span>Telegram</span>: <a href="tg://resolve?domain=oleksandrrbh">@oleksandrrbh</a>
-          </li>
-          <li>
-            <span>Skype</span>: <a href="skype:live:.cid.c612134ab8acb5e9?userinfo">live:.cid.c612134ab8acb5e9</a>
-          </li>
-          <li>
-            <span>Linkedin</span>: <a href="https://www.linkedin.com/in/oleksandrrbh">linkedin.com/in/oleksandrrbh</a>
-          </li>
-          <li>
-            <span>Github</span>: <a href="https://github.com/oleksandrrbh">github.com/oleksandrrbh</a>
-          </li>
-        </ul>
-      </section>
-      <section>
-        <h2>Skills and technologies</h2>
-        <ul>
-          <li>HTML5/CSS3;</li>
-          <li>Less, Sass(SCSS);</li>
-          <li>BEM;</li>
-          <li>Git;</li>
-          <li>npm;</li>
-          <li>JavaScript;</li>
-          <li>Gulp, Webpack;</li>
-          <li>Vue, Nuxt;</li>
-          <li>Adobe Photoshop, Adobe Illustrator;</li>
-          <li>Figma, Zeplin, Sketch.</li>
-        </ul>
-      </section>
-      <section>
-        <h2>Languages</h2>
-        <ul>
-          <li>English - Intermediate;</li>
-          <li>Ukrainian - Native</li>
-          <li>Russian - Native</li>
-        </ul>
-      </section>
-      <section>
-        <h2>Interests</h2>
-        <p>Gym, travel, design, books</p>
-      </section>
-    </aside>
-    <main>
-      <section>
-        <h2>Objective</h2>
-        <p>I'm looking for an involved team for productive collaboration, professional growth using modern technology stack, challenging tasks. I would like to apply my experience to achieve goals and build completed solutions.</p>
-        <p>Possibility to realize myself. Professional growth, warm atmosphere. Opportunity to communicate and to work with more experienced colleagues.</p>
-      </section>
-      <section>
-        <h2>Professional experience</h2>
-        <h4>Fresh Design Agency, Kyiv</h4>
-        <p><time>Jun.2020-Now.</time> <b>Frontend developer</b></p>
-        <p>Development and support of web applications for fintech projects, e-commerce projects, integration platforms, medical field. Participated in more than 20 projects</p>
-        <h4>Semalt, Kyiv</h4>
-        <p><time>Oct.2019-Apr.2020.</time> <b>Junior frontend developer</b></p>
-        <p>Cross-browser valid layout of web pages, work with REST API, layout of emails, layout of PDF reports, work with Google PageSpeed Tools. Took an active part in the development of analytics service.</p>
-        <h4>EloTeam, Odesa</h4>
-        <p><time>Nov.2018-Aug.2019.</time> <b>Trainee frontend developer</b></p>
-        <p>Developing user interfaces and UI components for internal company projects. Layout (HTML, CSS).</p>
-      </section>
-      <section>
-        <h2>Education</h2>
-        <p><time>Sept. 2010 - Jun. 2013</time> <b>Donetsk National Technical University, Ukraine</b></p>
-        <p>Degree of Engineering Specialist.</p>
-        <h4>Additional education:</h4>
-        <ol>
-          <li>Jan. 2019 - Mar. 2019 - HTML-Academy courses</li>
-          <li>Feb.2019 - Apr. 2019 - WebDesignGuru courses</li>
-          <li>Apr.2022 - Jun. 2022 - Eleks frontend courses</li>
-        </ol>
-      </section>
-      <section>
-        <h2>Personal qualities</h2>
-        <p>I'm an enthusiastic, responsible and hard working IT person. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines.</p>
-      </section>
-    </main>
+          <h1 class="title">Oleksandr Riabukha</h1>
+
+          <p class="description">Frontend developer</p>
+        </header>
+        <section class="cv__section">
+          <h2 class="section-title">Contacts</h2>
+          <ul class="section-list">
+            <li>
+              <span>Address</span>: <b>Kyiv, Ukraine</b>
+            </li>
+            <li>
+              <span>Phone</span>: <a href="tel:+380997877623">+38 (099) 787-76-23</a>
+            </li>
+            <li>
+              <span>Email</span>: <a href="mailto:oleksandrrbh@gmail.com">oleksandrrbh@gmail.com</a>
+            </li>
+            <li>
+              <span>Telegram</span>: <a href="tg://resolve?domain=oleksandrrbh">@oleksandrrbh</a>
+            </li>
+            <li>
+              <span>Skype</span>: <a href="skype:live:.cid.c612134ab8acb5e9?userinfo">live:.cid.c612134ab8acb5e9</a>
+            </li>
+            <li>
+              <span>Linkedin</span>: <a href="https://www.linkedin.com/in/oleksandrrbh">linkedin.com/in/oleksandrrbh</a>
+            </li>
+            <li>
+              <span>Github</span>: <a href="https://github.com/oleksandrrbh">github.com/oleksandrrbh</a>
+            </li>
+          </ul>
+        </section>
+        <section class="cv__section">
+          <h2 class="section-title">Skills and technologies</h2>
+          <ul>
+            <li>HTML5/CSS3;</li>
+            <li>Less, Sass(SCSS);</li>
+            <li>BEM;</li>
+            <li>Git;</li>
+            <li>npm;</li>
+            <li>JavaScript;</li>
+            <li>Gulp, Webpack;</li>
+            <li>Vue, Nuxt;</li>
+            <li>Adobe Photoshop, Adobe Illustrator;</li>
+            <li>Figma, Zeplin, Sketch.</li>
+          </ul>
+        </section>
+        <section class="cv__section">
+          <h2 class="section-title">Languages</h2>
+          <ul>
+            <li>English - Intermediate;</li>
+            <li>Ukrainian - Native</li>
+            <li>Russian - Native</li>
+          </ul>
+        </section>
+        <section class="cv__section">
+          <h2 class="section-title">Interests</h2>
+          <p>Gym, travel, design, books</p>
+        </section>
+      </aside>
+      <main class="cv__main">
+        <section class="cv__section">
+          <h2 class="section-title">Objective</h2>
+          <p>I'm looking for an involved team for productive collaboration, professional growth using modern technology stack, challenging tasks. I would like to apply my experience to achieve goals and build completed solutions.</p>
+          <p>Possibility to realize myself. Professional growth, warm atmosphere. Opportunity to communicate and to work with more experienced colleagues.</p>
+        </section>
+        <section class="cv__section">
+          <h2 class="section-title">Professional experience</h2>
+          <h3>Frontend developer</h3>
+          <p><time>Jun.2020 - Present</time> <b>Fresh Design Agency, Kyiv</b></p>
+          <p>Development and support of web applications for fintech projects, e-commerce projects, integration platforms, medical field. Participated in more than 20 projects</p>
+          <br>
+          <h3>Junior frontend developer</h3>
+          <p><time>Oct.2019 - Apr.2020</time> <b>Semalt, Kyiv</b></p>
+          <p>Cross-browser valid layout of web pages, work with REST API, layout of emails, layout of PDF reports, work with Google PageSpeed Tools. Took an active part in the development of analytics service.</p>
+        </section>
+        <section class="cv__section">
+          <h2 class="section-title">Education</h2>
+          <p><time>Sept. 2010 - Jun. 2013</time> <b>Donetsk National Technical University, Ukraine</b></p>
+          <p>Degree of Engineering Specialist.</p>
+          <br>
+          <h3>Additional education:</h3>
+          <ol>
+            <li>Jan. 2019 - Mar. 2019 - HTML-Academy courses</li>
+            <li>Feb.2019 - Apr. 2019 - WebDesignGuru courses</li>
+            <li>Apr.2022 - Jun. 2022 - Eleks frontend courses</li>
+          </ol>
+        </section>
+        <section class="cv__section">
+          <h2 class="section-title">Personal qualities</h2>
+          <p>I'm an enthusiastic, responsible and hard working IT person. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines.</p>
+        </section>
+      </main>
+    </div>
   </body>
 </html>
