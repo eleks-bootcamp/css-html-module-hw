@@ -1,0 +1,20 @@
+body {
+  color: #555;
+}
+
+img {
+  width: 200px;
+  border-radius: 20%;
+}
+
+h1 {
+  color: darkblue;
+}
+
+.contact {
+  background-color: lightcyan;
+}
+
+.tehnology {
+  background-color: lightsalmon;
+}
