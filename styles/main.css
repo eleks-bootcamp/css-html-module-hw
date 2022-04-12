@@ -1,0 +1,30 @@
+body {
+    color: #555;
+}
+
+
+/*Img style*/
+
+.myphoto {
+    width: 200px;
+    height: auto;
+    border-radius: 20%;
+}
+
+
+/*Text color*/
+
+
+/*background Colors*/
+
+.lightcyan {
+    background: lightcyan;
+}
+
+.darkblue {
+    background-color: darkblue;
+}
+
+.lightsalmon {
+    background: lightsalmon;
+}
