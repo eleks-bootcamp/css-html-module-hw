@@ -1,0 +1,17 @@
+
+body {
+    color: #555;
+}
+h1 {
+    color: darkblue;
+}
+.skills {
+    background: lightsalmon;
+}
+img{
+    width: 200px;
+    border-radius: 20%;
+}
+.contacts {
+background: lightcyan;
+}
