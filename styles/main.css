@@ -5,3 +5,8 @@ body {
 h1 {
   color: darkblue;
 }
+
+.photo {
+  width: 200px;
+  border-radius: 20%;
+}
