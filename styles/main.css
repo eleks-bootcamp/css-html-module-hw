@@ -1,0 +1,21 @@
+body {
+  color: #555;
+}
+
+h1 {
+  color: darkblue;
+}
+
+.my-photo {
+  width: 200px;
+  height:auto;
+  border-radius: 20%;
+}
+
+.lightcyan {
+  background-color: lightcyan;
+}
+
+.lightsalmon {
+  background-color: lightsalmon;
+}
