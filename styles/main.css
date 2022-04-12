@@ -1,0 +1,36 @@
+
+body{
+  background: #bdee74;
+  color: #555;
+}
+h1{
+  color: darkblue
+}
+/*
+p{
+  background: red;
+  color: rgba(54, 52, 52, 0.356);
+}
+*/
+
+/* можна стиль робити міткою через хештег але так не прийнято
+  #my-super-p {
+  background: hsl(200, 11%, 89%);
+  color: rgba(54, 52, 52, 0.356);
+}
+*/
+
+
+.bglightcyan{
+  background: lightcyan;
+}
+
+.bglightsalmon{
+  background: lightsalmon;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 20%;
+}
