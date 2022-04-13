@@ -1,0 +1,23 @@
+.contact-info{
+  background-color: lightcyan;
+  width: fit-content;
+}
+.my-skills{
+  background-color: lightsalmon;
+  width:fit-content;
+}
+li + li {
+  margin-top: 5px;
+}
+.full-name{
+  color: darkblue;
+  text-align: center;
+  margin: 50px;
+}
+.cv{
+  color: #555;
+}
+.photo{
+  width: 200px;
+  border-radius: 20%
+}
