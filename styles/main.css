@@ -1,9 +1,3 @@
-body{
-  color: #555;
-}
-h1 {
-  color: darkblue;
-}
 .contact-info{
   background-color: lightcyan;
   width: fit-content;
@@ -14,4 +8,16 @@ h1 {
 }
 li + li {
   margin-top: 5px;
+}
+.full-name{
+  color: darkblue;
+  text-align: center;
+  margin: 50px;
+}
+.cv{
+  color: #555;
+}
+.photo{
+  width: 200px;
+  border-radius: 20%
 }
