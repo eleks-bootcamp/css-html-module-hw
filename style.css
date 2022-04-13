@@ -1,0 +1,17 @@
+body {
+    color: #555;
+    
+}
+#h1{
+    color:darkblue;
+}
+.photo {
+    width: 200px;
+    border-radius: 20%;
+}
+.list1 {
+    background-color: lightcyan;
+}
+.list2 {
+    background-color: lightsalmon;
+}
