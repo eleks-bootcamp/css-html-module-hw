@@ -5,22 +5,34 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="styles/style.css">
 	<title>Резюме</title>
 </head>
 
 <body>
 
-	<h1>Коробкін Андрій Геннадійович</h1>
-	<p>Junior frontend developer</p>
-	<ul>
-		<li><a href="https://github.com/k1NAs">Посилання на мій GitHub</a></li>
-		<li><a href="https://www.linkedin.com/in/andrii-korobkin-786399236/">Посилання на мій Linkedin</a></li>
-		<li><a href="mailto:Flouzeek@gmail.com">Email me</a></li>
-		<li><a href="tel:+380505988079">Контактний телефон: +380505988079</a></li>
-		<li><a href="https://t.me/k1NAs">Посилання на мій Telegram</a></li>
+	<h1 class="my-name">Коробкін Андрій Геннадійович</h1>
+	<p class="position">Junior frontend developer</p>
+	<ul class="contacts-list">
+		<li class="contacts-list__item git">
+			<a href="https://github.com/k1NAs">Мій GitHub: k1NAs</a>
+		</li>
+		<li class="contacts-list__item linkedin">
+			<a href="https://www.linkedin.com/in/andrii-korobkin-786399236/">Мій
+				Linkedin: Andrii Korobkin</a>
+		</li>
+		<li class="contacts-list__item email">
+			<a href="mailto:Flouzeek@gmail.com">Мій eamil: Flouzeek@gmail.com</a>
+		</li>
+		<li class="contacts-list__item phone">
+			<a href="tel:+380505988079">Контактний телефон: +380505988079</a>
+		</li>
+		<li class="contacts-list__item telegram">
+			<a href="https://t.me/k1NAs">Мій Telegram: k1NAs</a>
+		</li>
 	</ul>
-	<img src="/img/2.jpg" alt="My Photo">
-	<p class="aboutme">Мене звуть Андрій, мені 31 рік. Ось вже 16 років минуло як я почав працювати на будові, спочатку
+	<img class="my-photo" src="/css-html-module-hw-master/img/2.jpg" alt="My Photo">
+	<p class="about-me">Мене звуть Андрій, мені 31 рік. Ось вже 16 років минуло як я почав працювати на будові, спочатку
 		євроремонти, досить швидко виріс від
 		підсобника до "майстра",а потім і до, не побоюсь таке казати, висококваліфікованого спеціаліста, а останні 5
 		років працюю професійним декоратором. В своїй сфері діяльності завжди прагнув бути найкращим, тому постійно вчився
@@ -30,43 +42,21 @@
 		життя, тому вирішив
 		спробувати свої сили в сфері ІТ, а саме в frontend розробці...</p>
 
-	<ul>
-		<li>HTML</li>
-		<li>CSS/SASS</li>
-		<li>Java Script</li>
-		<li>Git</li>
-		<li>Gulp</li>
-		<li>WebPack</li>
+	<ul class="technology-list">
+		<li class="technology-list__item">HTML</li>
+		<li class="technology-list__item">CSS/SASS</li>
+		<li class="technology-list__item">Java Script</li>
+		<li class="technology-list__item">Git</li>
+		<li class="technology-list__item">Gulp</li>
+		<li class="technology-list__item">WebPack</li>
 	</ul>
-	<ol>
+	<ol class="experience-list">
 		<li>Досвіду роботи немає</li>
 		<li>Проходив курс "Java Script Fundamental" від Softserve academy</li>
 	</ol>
-	<p>Закінчив ІФНТУНГ, кафедра комп'ютених систем і мереж, спеціальність комп'ютерна інженерія</p>
+	<p class="education">Закінчив ІФНТУНГ, кафедра комп'ютених систем і мереж, спеціальність комп'ютерна інженерія</p>
 
-	<style>
-		ul {
-			list-style: none;
-		}
 
-		a {
-			color: black
-		}
-
-		a:hover {
-			color: blue;
-			cursor: pointer;
-		}
-
-		img {
-			width: 20%;
-			height: 20%;
-		}
-
-		.aboutme {
-			max-width: 50%;
-		}
-	</style>
 </body>
 
 </html>
