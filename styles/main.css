@@ -1,0 +1,16 @@
+.main-style {
+  color: #555;
+}
+
+.photo {
+  width: 200px;
+  border-radius: 20%;
+}
+
+.contact-list {
+  background: lightcyan;
+}
+
+.list-of-technologies {
+  background: lightsalmon;
+}
