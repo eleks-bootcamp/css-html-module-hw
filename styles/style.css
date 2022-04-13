@@ -1,7 +1,10 @@
-.list {
-  border: 4px solid orange;
-  background: red
+.contact_list {
+  background: lightcyan;
+}
+.tech_list {
+  background: lightsalmon;
 }
 .profile-photo {
-  border-radius: 50%;
+  border-radius: 20%;
+  width: 200px;
 }
