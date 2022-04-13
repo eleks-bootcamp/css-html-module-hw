@@ -1,0 +1,20 @@
+*{
+    color: #555;
+  }
+  
+  .title {
+    color: #00003E;
+  }
+  
+  .contacts ul li {
+    color: cadetblue;
+  }
+  
+  .photo img {
+    width: 290px;
+    border-radius: 3%;
+  }
+  
+  .stack ul li {
+    color: green;
+  }
