@@ -1,0 +1,24 @@
+.profile-photo {
+  max-width: 200px;
+  border-radius: 20%;
+}
+
+.icon {
+  max-width: 24px;
+}
+
+
+body {
+  color: #555
+}
+
+h1 {
+  color: darkblue;
+}
+
+.my-contact {
+  background-color: lightcyan;
+}
+ .my-experience-it {
+   background-color: lightsalmon;
+ }
