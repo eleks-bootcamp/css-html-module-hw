@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Styles"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css-html-module-hw"
+	}
+}
