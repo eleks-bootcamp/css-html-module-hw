@@ -2,8 +2,9 @@ body {
     color: #555;
 }
 
-h1 {
+.full-name {
     color: darkblue;
+    text-align: center;
   }
 
   img {
