@@ -12,11 +12,11 @@ section{
   max-width: 70%;
 
 }
-#name>*{
+.name>*{
   padding:0.5em 0;
   margin: 0 auto;
 }
-#position{
+.position{
   color: gray;
 }
 img {
@@ -25,26 +25,26 @@ img {
   border-radius: 20%;
 
 }
-#contacts{
+.contacts{
   display: flex;
   justify-content: space-around;
   background-color: lightcyan;
 }
-#contacts>li>a{
+.contacts>li>a{
   color:#000444;
   font-size:16px ;
   font-weight: bold;
 }
-#contacts>li>a:hover{
+.contacts>li>a:hover{
   color: red;
   border-bottom: 2px solid red;
   font-size: 20px;
 }
-#learning{
+.learning{
   background-color: lightsalmon;
   margin: 2em;
 }
-#learning>*{
+.learning>*{
 
   font-weight: bold;
 }
@@ -54,19 +54,19 @@ h2{
   border-bottom: 1px black solid;
   padding: 1em 0;
 }
-#learning>ul>li{
+.learning>ul>li{
   font-size: 18px;
   padding: 0.2em;
 
 }
-#about{
+.about{
   display: flex;
   justify-content: space-between;
   flex-direction: column;
 
 }
 
-#about>p{
+.about>p{
   text-align: left;
   letter-spacing: 1px;
   padding: 1em;
