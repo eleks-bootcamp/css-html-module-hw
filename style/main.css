@@ -1,0 +1,17 @@
+body {
+  color: #555;
+}
+.name {
+  color: darkblue;
+}
+
+img {
+  width: 200px;
+  border-radius: 20%;
+}
+.inform {
+  background-color: lightcyan;
+}
+.technologies {
+  background-color: lightsalmon;
+}
