@@ -1,0 +1,20 @@
+.text-color {
+  color: #555;
+}
+
+.head-color {
+  color: darkblue;
+}
+
+.image {
+  width: 200px;
+  border-radius: 20%;
+}
+
+.bg-color-1 {
+  background-color: lightcyan;
+}
+
+.bg-color-2 {
+  background-color: lightsalmon;
+}
