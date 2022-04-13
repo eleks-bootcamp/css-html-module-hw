@@ -7,12 +7,22 @@ body {
 }
 
 a {
-  color: lightcyan;
   text-decoration: none;
 }
 
-.intro-name {
+.cv {
+  padding: 10px 20px;
+  color: #333;
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid gainsboro;
+}
+
+.full-name {
+  text-align: center;
   color: darkblue;
+  margin-bottom: 40px;
+  padding: 40px;
 }
 
 img {
@@ -21,10 +31,10 @@ img {
 }
 
 .contacts-list {
-  color: lightcyan;
+  background: lightcyan;
 }
 
 .tech-skills-list,
 .soft-skills-list {
-  color: lightsalmon;
+  background: lightsalmon;
 }
