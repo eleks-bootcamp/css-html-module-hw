@@ -1,0 +1,20 @@
+body {
+color: #555
+}
+
+h1 {
+  color: darkblue;
+}
+
+img {
+  width: 200px;
+  border-radius: 20%
+}
+
+.ul1 {
+  background-color: lightcyan;
+}
+
+.ul2 {
+  background-color: lightsalmon;
+}
