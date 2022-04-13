@@ -1,0 +1,20 @@
+.main {
+    color: #555;
+}
+
+.full-name {
+    color: darkblue;
+}
+
+img {
+    width: 200px;
+    border-radius: 20%;
+}
+
+.list {
+background-color: lightcyan;
+}
+
+.skills-list {
+    background-color: lightsalmon;
+}
