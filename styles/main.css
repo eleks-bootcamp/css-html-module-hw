@@ -8,7 +8,7 @@ h1 {
 
 img {
     width: 200px;
-    border-radius: 50%;
+    border-radius: 20%;
 }
 
 .contacts_list {
@@ -18,5 +18,6 @@ img {
 .skills_list {
   background-color: lightsalmon;
 }
+
 
 
