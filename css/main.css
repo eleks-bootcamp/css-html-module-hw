@@ -1,6 +1,20 @@
-/* ul {
-  list-style-type: none;
-} */
-img {
-  width: 400px;
+body {
+  color:#555;
+}
+.face_photo {
+  width: 200px;
+  border-radius: 20%;
+}
+.name {
+  color: darkblue;
+}
+.contact {
+  background-color: lightcyan;
+}
+.technology {
+  background-color: lightsalmon;
+}
+.about {
+  display: block;
+  max-width: 300px;
 }
