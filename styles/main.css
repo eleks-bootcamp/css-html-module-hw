@@ -6,12 +6,12 @@
     color: darkblue;
 }
 
-img {
+.photo {
     width: 200px;
     border-radius: 20%;
 }
 
-.list {
+.information-list {
 background-color: lightcyan;
 }
 
