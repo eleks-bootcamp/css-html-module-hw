@@ -6,11 +6,12 @@ h1 {
 }
 .contact-info{
   background-color: lightcyan;
+  width: fit-content;
 }
 .my-skills{
   background-color: lightsalmon;
+  width:fit-content;
 }
 li + li {
   margin-top: 5px;
 }
-
