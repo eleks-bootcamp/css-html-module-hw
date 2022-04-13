@@ -1,0 +1,17 @@
+body{
+  color:#555;
+}
+h1
+{
+  color:darkblue;
+}
+.my-photo{
+  width: 200px;
+  border-radius: 20%;
+}
+.contacts{
+  background: lightcyan;
+}
+.technology{
+  background: lightsalmon;
+}
