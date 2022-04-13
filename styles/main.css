@@ -1,0 +1,17 @@
+body{
+    color: #555;
+}
+.color{
+    color: darkblue;
+}
+img{
+    width: 200px;
+    border-radius: 20%;
+}
+.List{
+    background: lightcyan;
+}
+.backGr{
+    background: lightsalmon;
+}
+
