@@ -1,0 +1,17 @@
+.list {
+  border: 4px solid orange;
+  background-color: lightcyan;
+}
+body { color: #555;
+
+}
+h1 {
+  color: darkblue;
+}
+img {
+  width: 200px;
+  border-radius: 20%;
+}
+.skills {
+  background-color: lightsalmon;
+}
