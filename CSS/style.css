@@ -21,13 +21,14 @@ section{
 }
 img {
   display: block;
-  max-width: 350px;
-  border-radius: 50%;
+  max-width: 200px;
+  border-radius: 20%;
 
 }
 #contacts{
   display: flex;
   justify-content: space-around;
+  background-color: lightcyan;
 }
 #contacts>li>a{
   color:#000444;
@@ -40,6 +41,7 @@ img {
   font-size: 20px;
 }
 #learning{
+  background-color: lightsalmon;
   margin: 2em;
 }
 #learning>*{
