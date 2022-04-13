@@ -1,0 +1,21 @@
+body{
+   color: #555;
+   
+  }
+
+h1 {
+    color: darkblue;
+}  
+
+.list-kont {
+background: lightcyan;
+}  
+
+.list-teh {
+background: lightsalmon;
+}
+
+img {
+  width: 200 px;
+  border-radius: 20%;
+}
