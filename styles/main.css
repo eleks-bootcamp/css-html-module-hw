@@ -1,0 +1,18 @@
+
+body {
+  color: rgb #555;
+}
+h1 {
+  color: darkblue;
+}
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+}
+.cont_li {
+  background: lightcyan;
+}
+.tec_li {
+  background: lightsalmon;
+}
