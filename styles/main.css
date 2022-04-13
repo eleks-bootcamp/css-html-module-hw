@@ -6,8 +6,8 @@ h1 {
 }
 img {
   width: 200px;
-  height: 200px;
-  border-radius: 20;
+  height: 220px;
+  border-radius: 50%;
 }
 .list_contact {
   background: lightcyan;
