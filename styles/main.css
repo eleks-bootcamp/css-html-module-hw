@@ -7,15 +7,14 @@
   }
   
   .contacts ul li {
-    color: cadetblue;
+    color: lightcyan;
   }
   
   .photo img {
-    width: 290px;
-    border-radius: 3%;
+    width: 200px;
+    border-radius: 20%;
   }
   
   .stack ul li {
-    color: green;
+    color: lightsalmon;
   }
-  
