@@ -1,12 +1,24 @@
 .cv {
 padding: 10px 20px;
 color: #333;
-width: 1000 px;
+width: 1000px;
 margin: 0 auto;
 border: 1px solid gainsboro;
 }
 
 .full-name {color: darkblue;
 text-align: center;
-font-size: 24px;}
+font-size: 36px;}
 
+.photo {
+    width: 200px;
+    border-radius: 20%;
+}
+
+.contact-list {
+background-color: lightcyan;
+}
+
+.tech-list {
+    background-color: lightsalmon;
+}
