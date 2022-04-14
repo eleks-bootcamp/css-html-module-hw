@@ -1,0 +1,9 @@
+h1 {
+  color: #5bcc6e;
+  border: 2px solid #5bcc6e;
+  width: 200px;
+}
+
+.list_of_contact li a, .list_of_contact  {
+  color: red;
+}
