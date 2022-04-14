@@ -1,0 +1,12 @@
+.cv {
+padding: 10px 20px;
+color: #333;
+width: 1000 px;
+margin: 0 auto;
+border: 1px solid gainsboro;
+}
+
+.full-name {color: darkblue;
+text-align: center;
+font-size: 24px;}
+
