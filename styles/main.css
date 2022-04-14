@@ -1,20 +1,23 @@
-.body {
+.cv {
   color: #555;
+  width: 50%;
+  border: 1px solid gainsboro;
 }
 
-.name {
+.full-name {
   color: darkblue;
+  text-align: center;
 }
 
-.img {
+.photo {
   width: 200px;
   border-radius: 20%;
 }
 
-.contacts {
+.contacts-list {
   background-color: lightcyan;
 }
 
-.technologies {
+.technologies-list {
   background-color: lightsalmon;
 }
