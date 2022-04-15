@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #555;
+}
+
+a {
+  text-decoration: none;
+}
+
+.cv {
+  padding: 10px 20px;
+  color: #333;
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid gainsboro;
+}
+
+.full-name {
+  text-align: center;
+  color: darkblue;
+  margin-bottom: 40px;
+  padding: 40px;
+}
+
+img {
+  width: 200px;
+  border-radius: 20%;
+}
+
+.contacts-list {
+  background: lightcyan;
+}
+
+.tech-skills-list,
+.soft-skills-list {
+  background: lightsalmon;
+}
