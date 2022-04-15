@@ -78,7 +78,7 @@
     width: 400px;
     height: 1px;
     left: 0px;
-    top: 327px;
+    top: 325px;
 }
 
 .edu {
@@ -86,7 +86,7 @@
     width: 400px;
     height: 1px;
     left: 0px;
-    top: 430px;
+    top: 425px;
 }
 
 .bigup {
@@ -109,37 +109,11 @@
     border-radius: 0px;
 }
 
-.mygit {
-    object-fit: cover;
-    position: absolute;
-    width: 15px;
-    height: 15px;
-    left: 15px;
-    top: 86px;
-}
-
-.mylink {
-    object-fit: cover;
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    left: 12px;
-    top: 114px;
-}
-
-.myemail {
-    object-fit: cover;
-    position: absolute;
-    width: 15px;
-    height: 15px;
-    left: 15px;
-    top: 148px;
-}
-
-.myphone {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    left: 13px;
-    top: 177px;
+.techno {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 16px;
+    line-height: 15px;
+    color: #000000;
 }

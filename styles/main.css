@@ -35,3 +35,44 @@ body {
     top: 200px;
     border-radius: 120px;
 }
+
+.mygit {
+    object-fit: cover;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 15px;
+    top: 86px;
+}
+
+.mylink {
+    object-fit: cover;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 12px;
+    top: 114px;
+}
+
+.myemail {
+    object-fit: cover;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 15px;
+    top: 148px;
+}
+
+.myphone {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 13px;
+    top: 177px;
+}
+
+.techno {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
