@@ -1,18 +1,4 @@
 
-body{
-  background: #bdee74;
-  color: #555;
-}
-h1{
-  color: darkblue
-}
-/*
-p{
-  background: red;
-  color: rgba(54, 52, 52, 0.356);
-}
-*/
-
 /* можна стиль робити міткою через хештег але так не прийнято
   #my-super-p {
   background: hsl(200, 11%, 89%);
@@ -21,16 +7,98 @@ p{
 */
 
 
-.bglightcyan{
-  background: lightcyan;
+body{
+  background: white;
+  color: #000;
+  font-family: Roboto;
+  margin-top: 60px;
 }
-
-.bglightsalmon{
-  background: lightsalmon;
+h1{
+  color: #264061;
+  text-align: center;
+  font-size: 29px;
+  margin: 0;
+  padding: 0;
 }
 
 img {
-  width: 200px;
-  height: 200px;
-  border-radius: 20%;
+                          /*чому не посуває вниз блоки які після фотки, а накладається на них??*/
+  position: absolute;
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  Top: 160px;
+  left: 50px;
+
+}
+
+.leftside{
+  width: 340px;
+  height: 947px;
+  background: white;
+  float: left;
+  font-family: Roboto;
+
+}
+.rightside{
+  width: 650px;
+  height: 947px;
+  background: white;
+  margin-left: 370px;
+
+}
+
+.hline1{
+  width: 280px;
+  height: 1px;
+  margin-left: 30px;
+  background: #376193;
+}
+
+
+.left_list{
+  font: black; /*чому спадковість h1 сильніша від того що я тут прописав?*/
+  font-size: 16px;
+  text-align: left;
+  margin-left: 50px;
+}
+
+
+.group_name{
+  margin-bottom: 0;
+  font-size: 22px;
+  margin-left: 30px;
+  text-align: left;
+  font: #264061; /*чому не працює??*/
+
+}
+
+.rightside .group_name{
+  margin-left: 0px;
+
+}
+
+.rightside .hline1{
+
+  width: 620px;
+  height: 1px;
+  margin-left: 0px;
+  background: #376193;
+
+}
+
+.ulcount3 {
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+  list-style: none;
+}
+
+.respons{
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.ul_skills {
+  list-style: none;
 }
