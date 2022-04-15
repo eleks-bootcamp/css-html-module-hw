@@ -1,4 +1,4 @@
-@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
 *, *:after, *:before {
   box-sizing: border-box;
   padding: 0;
@@ -22,11 +22,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #264061;
 }
 body {
-  color: #555;
-  font-size: 14px;
+  color: #000;
+  font-size: 16px;
   line-height: 1;
   box-sizing: border-box;
-  max-width: 60%;
+  max-width: 75%;
   margin: 1rem auto;
 
 }

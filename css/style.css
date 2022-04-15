@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+  font-family: "Roboto";
+
+}
+.blue-line{
+  background-color: #376193;
+  height: 40px;
+  width: 100%;
+}
+.main-color{
+  background-color: var(--main-color);
+}
+aside {
+  float:left;
+  width: 40%;
+  position: relative;
+
+}
+h1{
+  font-size: 29px;
+  line-height: 2rem;
+  padding: 2rem 0 1rem 0;
+  text-align: center;
+}
+.main-photo{
+  border-radius: 50%;
+  width: 80%;
+margin: 0 auto;
+}
+h3{
+  font-size: 22px;
+  line-height: 1rem;
+  border-bottom: 1px solid var(--main-color);
+  padding-bottom: 0.3rem;
+  margin-bottom: 0.4rem;
+}
+
+.contacts{
+  padding:1rem;
+  margin-bottom: 1rem;
+}
+.contacts-list>*{
+    padding: 0.4rem 0 0.4rem 2rem;
+}
+.contacts-list a{
+  color: black;
+}
+.contacts-list a:hover{
+  color: var(--main-color);
+  font-size: 18px;
+  font-weight: bold;
+}
+.languages{
+  padding: 1rem;
+}
+.languages-list *{
+  padding: 0.4rem 0 0.4rem 2rem;
+
+}
+
+section{
+  float: right;
+  width: 60%;
+  padding-top: 5rem;
+}
+
+h2{
+  font-size: 23px;
+  border-bottom: 1px solid var(--main-color);
+  padding-bottom: 0.3rem;
+  line-height: 0.7rem;
+  letter-spacing: 0;
+}
+.space-left{
+  padding-left: 2rem;
+}
