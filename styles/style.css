@@ -8,3 +8,14 @@
   border-radius: 20%;
   width: 200px;
 }
+.full-name {
+  color: darkblue;
+  text-align: center;
+}
+.cv {
+  padding: 10px 20px;
+  color: #333;
+  width: 80%;
+  border: 1px solid gainsboro;
+  margin: auto;
+}
