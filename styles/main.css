@@ -70,9 +70,3 @@ body {
     left: 13px;
     top: 177px;
 }
-
-.techno {
-    -webkit-column-count: 2;
-    -moz-column-count: 2;
-    column-count: 2;
-}

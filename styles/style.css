@@ -78,7 +78,7 @@
     width: 400px;
     height: 1px;
     left: 0px;
-    top: 325px;
+    top: 327px;
 }
 
 .edu {
@@ -86,7 +86,7 @@
     width: 400px;
     height: 1px;
     left: 0px;
-    top: 425px;
+    top: 430px;
 }
 
 .bigup {
@@ -107,13 +107,4 @@
     top: 890px;
     background: #264061;
     border-radius: 0px;
-}
-
-.techno {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 450;
-    font-size: 16px;
-    line-height: 15px;
-    color: #000000;
 }
