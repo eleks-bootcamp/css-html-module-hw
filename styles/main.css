@@ -1,0 +1,22 @@
+*{
+    color: #555;
+  }
+  
+  .title {
+    color: #00003E;
+  }
+  
+  .contacts ul li {
+    color: lightcyan;
+  }
+  
+  .photo img {
+    width: 200px;
+    border-radius: 20%;
+  }
+  
+  .stack ul li {
+    color: lightsalmon;
+  }
+  
+  
