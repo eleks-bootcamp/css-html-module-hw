@@ -1,0 +1,87 @@
+body {
+  margin: 0px;
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+
+.header, .sub-header {
+  color: #264061;
+  font-weight: 400;
+}
+
+.header {
+  text-align: center;
+  font-size: 29px;
+}
+
+.sub-header {
+  border-bottom: 1px solid #376193;
+  font-size: 23px;
+}
+
+.content {
+  display: flex;
+  width: 992px;
+  margin: auto;
+  border: 1px solid #D3D3D3;
+}
+
+.right-column, .left-column {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.right-column {
+  width: 347px;
+}
+
+.left-column {
+  width: 644px;
+}
+
+.photo {
+  border-radius: 50%;
+  display: flex;
+  margin: auto;
+}
+
+.contacts li {
+  margin-bottom: 10px;
+}
+
+.contacts-github {
+  list-style-image: url('../icons/github_logo.png');
+}
+
+.contacts-linkedin {
+  list-style-image: url('../icons/linkedin_logo.png');
+}
+
+.contacts-gmail {
+  list-style-image: url('../icons/gmail_logo.png');
+}
+
+.contacts-phone {
+  list-style-image: url('../icons/phone_logo.png');
+}
+
+.languages li {
+  margin-bottom: 10px;
+  /* list-style-type: none; */
+}
+
+.skills {
+  column-count: 3;
+}
+
+.experience li {
+  margin-bottom: 10px;
+}
+
+.experience-dates {
+  display: block;
+  margin-bottom: 10px;
+  font-style: italic;
+  font-size: 14px;
+}
