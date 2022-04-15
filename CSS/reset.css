@@ -1,3 +1,4 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
 *, *:after, *:before {
   box-sizing: border-box;
   padding: 0;
@@ -18,13 +19,15 @@ img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   letter-spacing: 1px;
-  color: darkblue;
+  color: #264061;
 }
 body {
   color: #555;
   font-size: 14px;
   line-height: 1;
   box-sizing: border-box;
+  max-width: 60%;
+  margin: 1rem auto;
 
 }
 
@@ -36,4 +39,7 @@ header:after, .container:after, footer:after, .widget-posts-list li:after, #subs
   content: "";
   display: table;
   clear: both;
+}
+:root{
+  --main-color:#264061;
 }
