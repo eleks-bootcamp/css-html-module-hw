@@ -2,9 +2,20 @@ body {
   color: #555;
   }
 
-h1 {
+.cv {
+  padding: 10px 20px;
+  color: #333;
+  width: 300px;
+  margin: 0 auto;
+  border: 1px solid gainboro;
+  background-color: #f9f9f9;
+  font-size: 14px;
+  }
+
+.head1 {
   text-align: center;
   color: darkblue;
+  font-size: 1.5rem;
   }
   
 .pict {
