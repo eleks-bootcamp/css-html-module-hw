@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: #555;
+}
+
+.cv__title {
+  color: darkblue;
+  text-transform: uppercase;
+}
+
+.cv__photo {
+  display: block;
+  width: 200px;
+  border-radius: 20%;
+}
+
+.cv__links {
+  background-color: lightcyan;
+}
+
+.cv__stacks {
+  background-color: lightsalmon;
+}
