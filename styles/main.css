@@ -1,0 +1,21 @@
+* {
+  color: #555;
+}
+
+.title {
+  color: darkblue;
+  text-align: center;
+}
+
+.contacts-list {
+  background: lightcyan;
+}
+
+.photo {
+  width: 290px;
+  border-radius: 5%;
+}
+
+.stack-list {
+  background: lightsalmon;
+}
