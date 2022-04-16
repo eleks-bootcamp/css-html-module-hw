@@ -1,11 +1,12 @@
 .cv {
   color: #555;
-  width: 980px;
-  height: 800px;
+  width: 992px;
+  height: 947px;
   border: 1px solid gainsboro;
   display: flex;
   margin: 5px 250px;
   font-family: Roboto;
+  color: black;
 
 }
 
@@ -75,7 +76,7 @@
   font-family: Roboto;
 }
 
-.ul {
+.contacts-ul {
   list-style-type: none;
   margin-left: -25px;
   margin-top: -5px;
@@ -130,15 +131,7 @@
 
 .contacts-languages {
   margin-left: 20px;
-}
-
-.skills {
-  border-bottom: 1px solid #376193;
-  padding-bottom: 2px;
-  font-family: Roboto;
-  color: #264061;
-  font-size: 23px;
-  height: 27px;
+  margin-right: 20px;
 }
 
 .skills-list {
@@ -170,27 +163,71 @@
   line-height: 16px;
 }
 
-
-.right-side {
-  margin-top: 57px;
-
-  display: inline-block;
-  vertical-align: middle;
-}
-
-.summary {
+.experience,
+.education,
+.summary,
+.skills {
   border-bottom: 1px solid #376193;
   padding-bottom: 2px;
   font-family: Roboto;
   color: #264061;
   font-size: 23px;
+  height: 27px;
+  margin-left: 20px;
+  ma
+  /* margin-right: 33px; */
+}
+
+.summary-text {
+  margin-left: 20px;
+}
+
+.experience-block {
+  padding: 5px 10px;
+  margin-left: 30px;
+}
+
+.position {
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.company-name {
+  font-size: 15px;
+  line-height: 18px;
+}
+
+.education-block {
+  margin-top: -40px;
+  margin-left: 20px;
+}
+
+.graduate {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.university {
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.working-time {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.right-side {
+  margin-top: 57px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  vertical-align: middle;
+  padding-right: 33px;
 }
 
 
 .blue-border-right-bottom {
-  width: 400px;
   height: 40px;
-  color: blue;
-  position: fixed;
-  bottom: 0;
+  background-color: #376193;
 }
