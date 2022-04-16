@@ -1,19 +1,100 @@
 body{
-  color: #555;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto';
 }
-.main_title{
-  color: darkblue;
+.CV{
+  display: flex;
+  align-items:stretch;
 }
-.profile_photo{
-  width: 200px;
-  border-radius: 20%;
+.main-info{
+  margin-left: 224px;
+  width: 347px;
+  height: 40px;
+  top: 1px;
+  background: #376193;
 }
-.contact_list{
-  background-color: lightcyan;
+.main-title{
+  margin-top: 62px;
+  text-align: center;
+  font-size: 29px;
+  font-weight: 400;
+  line-height: 33.98px;
+  text-transform: uppercase;
 }
-.technical_list{
-  background-color: lightsalmon;
+.profile-photo{
+  width: 240px;
+  height: 240px;
+  border-radius: 120px;
+  object-fit: cover;
+  margin-left: 54px;
 }
+.second-title{
+  margin-top: 24px;
+  margin-left: 33px;
+  color: #264061;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 25.78px;
+  border-bottom: solid 1px #376193;
+  padding-bottom: 5px;
+}
+.contact-list{
+  list-style: none;
+}
+.languages-list{
+  list-style: none;
+}
+.skills-info{
+  margin-left: 32px;
+  margin-top: 43px;
+  width: 644px;
+}
+.summary-info{
+  margin-left: 32px;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 17.58px;
+}
+.technical-list{
+  margin-bottom: 24px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  font-size: 16px;
+  line-height: 18.75px;
+}
+.skills{
+flex: 33.33%;
+}
+.job-position{
+  list-style: none;
+}
+.spesialization{
+  margin-left: 32px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.41px;
+}
+.university-country{
+  margin-left: 32px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.75px;
+  margin-bottom: 55px;
+}
+.footer-line{
+  width: 644px;
+  height: 40px;
+  left: 572px;
+  top: 906px;
+  background: #264061;
+  margin-left: 32px;
+}
+
+
 
 
 
