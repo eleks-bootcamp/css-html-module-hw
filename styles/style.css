@@ -2,13 +2,13 @@
 
 .contact {
   background-color: lightcyan;
-  border: 1px solid green;
+
 }
 .tehnoligy {
   background-color: lightsalmon;
-  border: 1px solid orangered;
+
 }
 img {
-  width: 200px;
-  border-radius: 20%;
+  width: 240px;
+  border-radius: 50%;
 }
