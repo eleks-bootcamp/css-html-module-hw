@@ -54,6 +54,7 @@ body {
   margin: 73px 0;
 }
 
+/* #region information */
 .about_name {
   margin-left: 101px;
   width: 200px;
@@ -122,6 +123,7 @@ body {
   text-decoration: none;
   color: #000000;
 }
+/* #endregion */
 
 .right_column {
   width: 580px;
@@ -131,6 +133,7 @@ body {
   margin-left: 0;
 }
 
+/* #region summary */
 .summary_title {
   margin-bottom: 0;
   border-bottom: 1px solid #376193;
@@ -147,7 +150,9 @@ body {
   line-height: 18px;
   color: #000000;
 }
+/* #endregion */
 
+/* #region skills */
 .skills_title {
   margin-bottom: 0;
   border-bottom: 1px solid #376193;
@@ -171,8 +176,9 @@ body {
   width: 33%;
   margin-bottom: 0;
 }
+/* #endregion */
 
-
+/* #region expirience */
 .expirience_title {
   margin-bottom: 0;
   border-bottom: 1px solid #376193;
@@ -203,7 +209,9 @@ margin: 0;
 .expirience_responsibilities {
 margin-top: 8px;
 }
+/* #endregion */
 
+/* #region education */
 .study_title {
   margin-bottom: 0;
   border-bottom: 1px solid #376193;
@@ -230,3 +238,4 @@ margin-top: 8px;
 .study_university {
 margin-top: 8px;
 }
+/* #endregion */
