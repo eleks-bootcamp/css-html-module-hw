@@ -1,21 +1,215 @@
-.body_txt{
-    color: #555;
+.Summary{
+    position: absolute;
+    width: 1080px;
+    height: 950px;
+    left: 225px;
+    top: 0px;
+    background: #FFFFFF;
+    border: 1px solid #D3D3D3;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 350px 650px;
+}
+.Line{
+    position: absolute;
+    width: 350px;
+    height: 40px;
+    top: 1px;
+    background: #376193;
+    border-radius: 0px;
 }
 
 .name{
-    color: darkblue;
+    position: absolute;
+    width: 195px;
+    height: 68px;
+    top: 50px;
+    left: 75px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 34px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #264061;
 }
 
-.li_img{
-    width: 200px;
-    height: 200px;
-    border-radius: 20%;
+.photo{
+    color: #000;
+    left: 75px;
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    top: 163px;
+    background: #D3D3D3;
+    border-radius: 120px;
 }
 
-.contact{
-    background-color: lightcyan;
+.cont{
+    color: rgba(38, 64, 97, 1);
+    left: 35px;
+    position: absolute;
+    width: 90px;
+    height: 26px;
+    top: 427px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
 }
 
-.tehn{
-    background-color: lightsalmon;
+.line{
+    left: 35px;
+    content: "";
+    width: 283px;
+    height: 1px;
+    background: #376193;
+}
+
+.phone{
+    left: 35px;
+    width: 177px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;   
+}
+
+.lan{
+    color: rgba(38, 64, 97, 1);
+    left: 35px;
+    position: absolute;
+    width: 111px;
+    height: 26px;
+    top: 580px; 
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.langueag{
+    color: #000;
+    width: 64px;
+    height: 18px;
+    left: 281px;
+    top: 662px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;    
+}
+
+.summary{
+    position: absolute;
+    width: 56px;
+    height: 27px;
+    left: 500px;
+    top: 50px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;  
+}
+
+.sumary{
+    color: rgba(38, 64, 97, 1);
+    width: 101px;
+    height: 27px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;    
+}
+
+.sum_txt{
+    color: #000;
+    width: 574px;
+    height: 72px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;    
+}
+
+.Skill{
+    color: rgba(38, 64, 97, 1);
+    position: absolute;
+    width: 56px;
+    height: 27px;
+    top: 180px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;    
+}
+
+.skills{
+    color: #000;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;    
+}
+
+.Experience{
+    color: rgba(38, 64, 97, 1);
+    position: absolute;
+    height: 27px;
+    top: 320px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;    
+}
+
+.expe{
+    color: #000;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.Education{
+    position: absolute;
+    height: 27px;
+    top: 540px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;    
+    color: rgba(38, 64, 97, 1);
+}
+
+.edu{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;    
+    color: black;
+}
+
+.Line2{
+    position: absolute;
+    width: 644px;
+    height: 40px;
+    top: 140px;
+    left: -65px;
+    background: #264061;
 }
