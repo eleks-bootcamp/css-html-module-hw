@@ -1,6 +1,22 @@
+.cv {
+  display: flex;
+  max-width: 600px;
+  margin: auto;
+}
+.contact-info-section {
+  width: 300px;
+  padding: 0 35px;
+  border-top: 20px solid darkblue;
+}
 .profile-photo {
   max-width: 200px;
-  border-radius: 20%;
+  border-radius: 40%;
+}
+.profile-photo-container {
+  width: 200px;
+  height: 200px;
+  border-radius: 90%;
+  overflow: hidden;
 }
 
 .icon {
@@ -9,16 +25,34 @@
 
 
 body {
-  color: #555
+  color: #555;
+
 }
 
-h1 {
+.my-name {
+  color: darkblue;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+h4 {
+  border-bottom: 2px solid darkblue;
   color: darkblue;
 }
 
-.my-contact {
-  background-color: lightcyan;
+.contact {
+  padding: 0;
+  color: black;
+  list-style-type: none;
 }
- .my-experience-it {
-   background-color: lightsalmon;
- }
+.languages {
+  color: black;
+  list-style-type: none;
+}
+.experience {
+  list-style-type: none;
+}
+.cv-details {
+  border-bottom: 20px solid darkblue;
+}
