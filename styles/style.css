@@ -22,22 +22,24 @@ body {
 
 .content {
   display: flex;
-  width: 992px;
+  width: fit-content;
   margin: auto;
   border: 1px solid #D3D3D3;
 }
 
 .right-column, .left-column {
-  margin-right: 30px;
-  margin-left: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
 }
 
 .right-column {
-  width: 347px;
+  width: 287px; /* 347px - (30+30) lefr/right paddings. */
+  border-top: 40px solid #376193;
 }
 
 .left-column {
-  width: 644px;
+  width: 584px; /* 644px - (30+30) left/right paddings). */
+  border-bottom: 40px solid #264061;
 }
 
 .photo {
