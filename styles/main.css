@@ -1,92 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
-* {
-    box-sizing: border-box;
-    margin: 0 auto;
-    font-family: 'Roboto', sans-serif;
+.main_color {
+    color: #555;
 }
-ul {
-    list-style-type: none;
+.title {
+    color: darkblue;
 }
-
-.page {
-    max-width: 992px;
-    display: flex;
+.contacts {
+    background: lightcyan;
 }
-
-.left_side {
-    width: 35%;
-    padding: 70px 33px ;
+.technologies {
+    background: lightsalmon;
 }
-
-.right_side {
-    width: 65%;
-    padding: 70px 33px;
-}
-
 .my_photo {
-    display: block;
-    text-align: center;
-    max-width: 240px;
-    border-radius: 120px;
-}
-
-.main_title {
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 29px;
-}
-
-.title {
-    border-bottom: 1px solid rgba(55, 97, 147, 1);
-    font-size: 22px;
-}
-
-.main_title, 
-.title {
-    color: rgba(38, 64, 97, 1);
-}
-.contacts .title_list, 
-.languages .title_list {
-    margin-left: 24px;
-    padding-left: 0;
-}
-
-.skills .title_list {
-    display: flex;
-    flex-wrap: wrap;
-    padding-left: 0;
-}
-.skills .item {
-    margin-left: 24px;
-    margin-right: 105px;
-}
-.skills .item:nth-child(3n) {
-    margin-right: 0;
-}
-.skills .item:nth-child(4n) {
-    margin-left: 24px;
-    margin-right: 130px;
-    margin-top: 0;
-}
-.skills .item:nth-child(5n) {
-    margin-top: 0;
-}
-
-.my_photo,
-.contacts,
-.languages,
-.skills,
-.experience,
-.education {
-    margin-top: 24px;
-}
-
-.item,
-.description {
-    margin-top: 18px;
-}
-
-.experience .description {
-    margin-left: 40px;
+    width: 200px;
+    border-radius: 20%;
 }
