@@ -57,11 +57,13 @@
   line-height: 19px
 }
 
-.contacts {
+.contacts,
+.languages {
   border-bottom: 1px solid #376193;
   padding-bottom: 2px;
   font-family: Roboto;
   color: #264061;
+  font-size: 22px;
 }
 
 .contacts-list {
@@ -119,16 +121,6 @@
   line-height: 25px;
 }
 
-.languages {
-  border-bottom: 1px solid #376193;
-  padding-bottom: 2px;
-  font-family: Roboto;
-  color: #264061;
-
-
-
-}
-
 .contacts-languages {
   margin-left: 20px;
   margin-right: 20px;
@@ -174,17 +166,18 @@
   font-size: 23px;
   height: 27px;
   margin-left: 20px;
-  ma
-  /* margin-right: 33px; */
+  margin-right: 20px;
 }
 
 .summary-text {
   margin-left: 20px;
+  margin-right: 20px;
 }
 
 .experience-block {
   padding: 5px 10px;
   margin-left: 30px;
+  margin-right: 20px;
 }
 
 .position {
@@ -223,7 +216,6 @@
   flex-direction: column;
   justify-content: space-between;
   vertical-align: middle;
-  padding-right: 33px;
 }
 
 
