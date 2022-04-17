@@ -1,0 +1,21 @@
+.body {
+  color: #555;
+}
+
+.main-header {
+  color: darkblue;
+  text-align: center;
+}
+
+.my-photo {
+  width: 200px;
+  border-radius: 20%;
+}
+
+.contact-list {
+  background: lightcyan;
+}
+
+.tech-list {
+  background: lightsalmon;
+}
