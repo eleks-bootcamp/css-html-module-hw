@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.Position {
+    background-color: rgb(100, 152, 230);
+}
+
+.list{
+    border: 4px solid orange;
+}
