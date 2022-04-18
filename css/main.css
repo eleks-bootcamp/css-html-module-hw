@@ -24,6 +24,10 @@ h3 {
 }
 .second-collum h3 {
   width: 90%;
+  margin-top: 40px;
+}
+.second-collum {
+  padding-top: 40px;
 }
 a {
   color: #000;
@@ -79,17 +83,15 @@ span {
   display: block;
   margin-left: 32px;
 }
-.summary__margin {
-  margin-top: 72px;
-}
 .list {
   display: flex;
+  margin-left: -34px;
 }
 .list li {
   margin: 0 49px;
 }
-.list {
-  margin-left: -34px;
+.skills-list {
+  columns: 3;
 }
 .text {
   margin-left: 33px;
@@ -102,4 +104,5 @@ span {
   background-color:#264061 ;
   width: 100%px;
   height: 40px;
+  margin-top: 32px
 }
