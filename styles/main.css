@@ -1,7 +1,56 @@
 body {
   color: #555;
+  position: absolute;
+width: 992px;
+height: 947px;
+left: 224px;
+top: 0px;
+
+background: #FFFFFF;
+border: 1px solid #D3D3D3;
+box-sizing: border-box;
+border-radius: 0px;
 }
-h1 {color: darkblue;}
-img { width: 200px; border-radius: 20%;}
-.contact {background-color: lightcyan;}
-.tehnologi{background-color: lightsalmon;}
+
+.block-left{
+  width:50%;
+  height:800px;
+  overflow:auto;
+  float:left;}
+
+  .block-right{
+    width:50%;
+    height:800px;
+    overflow: hidden;}
+
+  .rectangel {
+  position: absolute;
+  width: 347px;
+  height: 40px;
+  top: 1px;
+
+  background: #376193;
+  border-radius: 0px;
+}
+
+
+.cv {
+  ;
+}
+
+.full-name {
+  color: darkblue;
+  text-align: center;
+}
+
+
+img {
+  width: 200px;
+  border-radius: 20%;
+}
+.contact-list {
+  background-color: lightcyan;
+}
+.tehnologiest-list{
+  background-color: lightsalmon;
+}
