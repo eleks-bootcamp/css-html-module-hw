@@ -1,0 +1,22 @@
+.cv {
+  color: #555;
+}
+
+.full-name {
+  color: darkblue;
+  text-align: center;
+}
+
+.list-contacts {
+  background: lightcyan;
+}
+
+.list-skills {
+  background: lightsalmon;
+}
+
+.imagine {
+  width: 200px;
+  height: 200px;
+  border-radius: 20%;
+}
