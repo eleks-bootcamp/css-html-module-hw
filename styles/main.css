@@ -1,0 +1,21 @@
+body {
+    color: #555;
+}
+
+.full-name {
+    color: darkblue;
+    text-align: center;
+  }
+
+  img {
+      width: 200px;
+      border-radius: 20%;
+  }
+
+.contacts_list {
+    background-color: lightcyan;
+}
+
+.skills_list {
+    background-color: lightsalmon;
+}
