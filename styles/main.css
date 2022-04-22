@@ -1,0 +1,18 @@
+body {
+color: #555;
+}
+.full-name {
+  color: darkblue;
+  text-align: center;
+}
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+}
+.contacts {
+  background-color: lightcyan;
+}
+.technology {
+  background: lightsalmon;
+}
