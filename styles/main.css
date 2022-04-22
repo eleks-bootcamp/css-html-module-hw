@@ -1,0 +1,20 @@
+body {
+  color:#555;
+}
+
+h1 {
+  color: darkblue;
+}
+
+.avatar {
+  width: 200px;
+  border-radius: 20%;
+}
+
+.listC {
+  background: lightcyan;
+}
+
+.listT {
+  background:lightsalmon
+}
