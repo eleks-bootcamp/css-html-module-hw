@@ -1,0 +1,27 @@
+.cv {
+  color: #333;
+  padding: 10px 20px;
+  width: 800px;
+  margin: 0 auto;
+  border: 1px solid gainsboro;
+}
+
+.person-name {
+  color: darkblue;
+}
+
+img {
+  border-radius: 20%;
+}
+
+.contactInfo {
+  background: lightcyan;
+}
+
+.technologyInfo {
+  background: lightsalmon;
+}
+
+.pipiska {
+  color: red;
+}
