@@ -1,0 +1,25 @@
+.cv-left-side {
+  width: 35%;
+  height: 100%;
+}
+
+.cv-side-content {
+  padding: 2rem;
+}
+
+.cv-full-name {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+  color: var(--blue-200)
+}
+
+.cv-photo {
+  background-color: lightgrey;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 240px;
+  height: 240px;
+  margin: 0 auto;
+}
