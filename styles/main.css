@@ -7,15 +7,19 @@ h1 {
 }
 
 .avatar {
-  width: 200px;
-  border-radius: 20%;
+  width: 240px;
+  height: 240px;
+  left: 278px;
+  top: 163px;
+  background: #D3D3D3;
+  border-radius: 120px;
 }
 
 .listC {
   background: lightcyan;
 }
 
-.listT {
+.cv-skills-list cv-list {
   background:lightsalmon
 }
 
