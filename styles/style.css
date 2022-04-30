@@ -1,0 +1,27 @@
+
+#My-super-p {
+      background: rgb(201, 194, 194) ;
+}
+
+body {
+  font-family: 'Roboto';
+}
+
+.list {
+    border: 4px solid orange;
+  }
+
+:root {
+  --blue-100: #376193;
+  --blue-200: #264061;
+  --grey-100: #d3d3d3;
+  --white: #fff;
+}
+
+.blue-bg-100 {
+  background-color: var(--blue-100);
+}
+
+.blue-bg-200 {
+  background-color: var(--blue-200);
+}

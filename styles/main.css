@@ -1,0 +1,25 @@
+body {
+  color:#555;
+}
+
+h1 {
+  color: darkblue;
+}
+
+.avatar {
+  width: 240px;
+  height: 240px;
+  left: 278px;
+  top: 163px;
+  background: #D3D3D3;
+  border-radius: 120px;
+}
+
+.listC {
+  background: lightcyan;
+}
+
+.cv-skills-list cv-list {
+  background:lightsalmon
+}
+
