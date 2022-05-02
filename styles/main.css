@@ -1,0 +1,25 @@
+.cv {
+  width: 800;
+}
+
+
+.full-name {
+  color: darkblue;
+}
+
+.contact-list {
+  background-color: lightcyan;
+}
+
+.technologies-list {
+  background-color: lightsalmon;
+}
+
+body, * {
+  color: #555
+}
+
+img {
+  width: 200px;
+  border-radius: 20%;
+}
