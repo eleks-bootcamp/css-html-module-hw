@@ -1,0 +1,16 @@
+.body {
+  color: #555;
+}
+.name {
+  color: darkblue;
+}
+.photo {
+  width: 200px;
+  border-radius: 20%;
+}
+.contact_list {
+  background-color: lightcyan;
+}
+.technology_list {
+  background-color: lightsalmon;
+}
