@@ -1,0 +1,16 @@
+body {
+  color: #555
+}
+h1 {
+  color: darkblue}
+.list {
+  background: lightcyan;
+}
+.list1 {
+  background: lightsalmon;
+}
+img {
+width: 200px;
+height: 240 px;
+border-radius:20%;
+}
