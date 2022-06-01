@@ -1,9 +1,25 @@
-#my-dream-tag {
-  background: orange;
-  color: red;
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.my-dream-tag {
+  background: royalblue;
+  color: black;
+  text-align: center;
   }
 
-.list {
-  border: 4px solid green;
-  background: blue;
+.contacts-list {
+  border: 4px solid rosybrown;
+  background: lightcyan;
   }
+
+.full-name {
+  color: darkblue;
+  text-align: center;
+}
+
+.tech-list {
+  border: 3px solid royalblue;
+  background: lightcyan;
+}
