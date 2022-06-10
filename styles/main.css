@@ -1,0 +1,141 @@
+body {
+  height: 100%;
+  margin: 0;
+  background-color: #E5E5E5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  all: unset;
+}
+
+h1{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 29px;
+  line-height: 34px;
+  text-align: center;
+  text-transform: uppercase;
+  }
+  img{
+    width: auto;
+    height: 240px;
+    border-radius: 120px;
+  }
+
+.Fullpage{
+  width: 992px;
+  height: 947px;
+  margin: 0 auto;
+  display: flex;
+  background: #fff;
+}
+.left-block{
+  width: 35%;
+  height: 100%;
+}
+.right-block{
+  width: 65%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+/*left-block*/
+
+
+.top-decoration-block{
+  width: 100%;
+  height: 40px;
+  background-color: #376193;
+}
+.title-name{
+  margin-top: 32px;
+}
+.my-photo{
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  margin-top: 22px;
+}
+.Discription-h2 h2{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  color: #264061;
+  border-bottom: 1px solid  #264061;
+  margin-right: 33px;
+  margin-left: 33px;
+}
+ul{
+  list-style-type: none;
+}
+li{
+  margin-left: 15px;
+  margin-top: 20px;
+}
+a{
+  margin-left: 10px;
+}
+.Languages{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+}
+
+/*Right-block*/
+.decoration-block-top{
+  display: flex;
+  width: 100%;
+  height: 40px;
+}
+.decoration-block-bottom{
+  background-color: #264061;
+  display: flex;
+  width: 100%;
+  height: 40px;
+}
+.Summary {
+  margin-left: 33px;
+  margin-right: 33px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+}
+.Skills-list{
+  list-style-type: none;
+  column-count: 3;
+}
+.Experience{
+  margin-left: 33px;
+  margin-right: 33px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+.Education{
+  margin-left: 33px;
+  margin-right: 33px;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+}
+
+
